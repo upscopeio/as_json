@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Pablo Fonseca", "Joe d'Elia"]
   spec.email         = ["pablofonseca777@gmail.com", "joe@delia.is"]
 
-  spec.summary       = %q{Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{Write a longer description or delete this line.}
+  spec.summary       = %q{as_json on steroids.}
+  spec.description   = %q{as_json on steroids.}
   spec.homepage      = "https://github.com/upscopeio/as_json"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
